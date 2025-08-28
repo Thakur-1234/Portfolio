@@ -1,93 +1,32 @@
 export const experienceData = [
   {
     id: "1",
-    role: "Junior Application Developer",
-    company: "Alpha Apps",
-    duration: "Jan 2023 - Mar 2023",
+    role: "Quality Control Officer",
+    company: "AutoForm India",
+    duration: "Nov 2020 - Aug 2022",
     description: [
-      "Developed cross-platform mobile apps using React Native.",
-      "Integrated REST APIs for dynamic data.",
-      "Optimized app performance and UI responsiveness."
+      "Ensured top-notch quality standards for automotive seat covers in a high-volume manufacturing environment.",
+      "Implemented systematic quality control procedures to minimize defects and improve overall product consistency.",
+      "Conducted inspections at various stages of production and documented findings to maintain compliance with industry standards.",
+      "Collaborated closely with production teams to resolve quality issues quickly, reducing downtime and material waste.",
+      "Contributed to continuous process improvements by suggesting modifications in workflow and testing methods."
     ],
-    skills: ["React Native", "JavaScript", "API Integration", "UI/UX"],
-    link: "https://alphaapps.com",
+    skills: ["Quality Control", "Process Improvement", "Team Collaboration", "Inspection", "Problem Solving"],
+    link: "https://autoformindia.com/?srsltid=AfmBOoqxpFhfVzKZE3rD5kDZMVX980BY0dcE-qMdLxYlt69BtUEqGdkU", 
   },
   {
     id: "2",
-    role: "Mobile App Developer Intern",
-    company: "Beta Mobile",
-    duration: "Apr 2023 - Jun 2023",
+    role: "Lab Attendant",
+    company: "Intas Pharmaceuticals Ltd",
+    duration: "Mar 2023 - Aug 2023",
     description: [
-      "Built Android and iOS apps using Flutter and Dart.",
-      "Implemented push notifications and offline data support.",
-      "Worked on app deployment to Play Store and App Store."
+      "Assisted in day-to-day laboratory operations, ensuring smooth workflow in micro-QC testing processes.",
+      "Prepared and sterilized lab equipment, glassware, and materials to maintain hygiene and accuracy in testing.",
+      "Supported microbiologists and senior lab staff in carrying out sample analysis and quality checks.",
+      "Maintained proper inventory of laboratory chemicals, tools, and supplies, and assisted in procurement when required.",
+      "Followed strict safety protocols and Good Laboratory Practices (GLP) to ensure compliance with pharmaceutical industry standards."
     ],
-    skills: ["Flutter", "Dart", "Firebase", "Push Notifications"],
-    link: "https://betamobile.com",
-  },
-  {
-    id: "3",
-    role: "Frontend Application Developer",
-    company: "Gamma Solutions",
-    duration: "Jul 2023 - Sep 2023",
-    description: [
-      "Created responsive web applications using React.js.",
-      "Integrated third-party APIs and authentication flows.",
-      "Improved UI/UX using modern design patterns."
-    ],
-    skills: ["React.js", "HTML", "CSS", "JavaScript"],
-    link: "https://gammasolutions.com",
-  },
-  {
-    id: "4",
-    role: "Backend Application Developer",
-    company: "Delta Tech",
-    duration: "Oct 2023 - Dec 2023",
-    description: [
-      "Developed backend APIs using Node.js and Express.",
-      "Designed database schemas in MongoDB and PostgreSQL.",
-      "Implemented server-side validation and authentication."
-    ],
-    skills: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-    link: "https://deltatech.com",
-  },
-  {
-    id: "5",
-    role: "Full Stack Developer Intern",
-    company: "Epsilon Labs",
-    duration: "Jan 2024 - Mar 2024",
-    description: [
-      "Built full-stack applications using MERN stack.",
-      "Integrated Redux for state management.",
-      "Deployed apps using Docker and cloud services."
-    ],
-    skills: ["MongoDB", "Express", "React", "Node.js", "Redux"],
-    link: "https://epsilonlabs.com",
-  },
-  {
-    id: "6",
-    role: "Application Developer",
-    company: "Zeta Innovations",
-    duration: "Apr 2024 - Jun 2024",
-    description: [
-      "Worked on mobile app features for enterprise solutions.",
-      "Implemented analytics and reporting dashboards.",
-      "Collaborated with UI/UX designers to improve app experience."
-    ],
-    skills: ["React Native", "JavaScript", "Firebase", "Analytics"],
-    link: "https://zetainnovations.com",
-  },
-  {
-    id: "7",
-    role: "Application Developer Intern",
-    company: "Theta Technologies",
-    duration: "Jul 2024 - Sep 2024",
-    description: [
-      "Assisted in development of web and mobile applications.",
-      "Integrated APIs and improved app performance.",
-      "Performed testing and bug fixing."
-    ],
-    skills: ["React Native", "Python", "Flask", "SQLite"],
-    link: "https://theta.com",
+    skills: ["Laboratory Operations", "Quality Testing", "Inventory Management", "Sterilization", "Safety Compliance"],
+    link: "https://www.intaspharma.com",
   },
 ];
